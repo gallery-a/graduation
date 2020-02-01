@@ -1,0 +1,28 @@
+item {
+  id: 1
+  name: 'defect_1'
+}
+item {
+  id: 2
+  name: 'defect_2'
+}
+item {
+  id: 3
+  name: 'defect_3'
+}
+item {
+  id: 4
+  name: 'defect_4'
+}
+item {
+  id: 5
+  name: 'defect_5'
+}
+item {
+  id: 6
+  name: 'defect_6'
+}
+item {
+  id: 7
+  name: 'defect_7'
+}
